@@ -1,4 +1,0 @@
-/home/kar/Desktop/Param/FVS/ofGh/FeedbackVertexSet-Experiments/src/build/CMakeFiles/rebuild_cache.dir
-/home/kar/Desktop/Param/FVS/ofGh/FeedbackVertexSet-Experiments/src/build/CMakeFiles/edit_cache.dir
-/home/kar/Desktop/Param/FVS/ofGh/FeedbackVertexSet-Experiments/src/build/CMakeFiles/Verifier.dir
-/home/kar/Desktop/Param/FVS/ofGh/FeedbackVertexSet-Experiments/src/build/CMakeFiles/FeedbackVertexSet.dir
